@@ -1,4 +1,4 @@
-# Copyright (c) 2018 Yash Jain, 2022 IBM Corp.
+# Copyright (c) 2022 Dallas Delaney, 2022 Microsoft Inc.
 #
 # SPDX-License-Identifier: Apache-2.0
 
