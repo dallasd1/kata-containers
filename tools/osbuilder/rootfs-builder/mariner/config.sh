@@ -5,6 +5,6 @@
 OS_NAME=mariner
 OS_VERSION=${OS_VERSION:-2.0}
 LIBC="gnu"
-PACKAGES="core-packages-base-image"
+PACKAGES="core-packages-base-image ca-certificates"
 [ "$AGENT_INIT" = no ] && PACKAGES+=" systemd"
 [ "$SECCOMP" = yes ] && PACKAGES+=" libseccomp"
